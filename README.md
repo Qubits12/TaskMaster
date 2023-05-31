@@ -9,3 +9,9 @@ Flags for priority tasks
 Category to group the tasks
 Description
 Sort tasks
+
+## Non-Functional Requirements
+The web-based To-do app may contain the following qualities:
+Reliability: The To-do app should store data securely and reliably.
+Usability: The To-do app must be easy and reliable to use.
+Performance: The To-do app should be responsive and fast.
